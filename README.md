@@ -56,6 +56,8 @@ print(f'Objects in {path1}: {img1}')
 img2 = count_objects(path2)
 print(f'Objects in {path2}: {img2}')
 
+```
+
 
 
 These scripts demonstrate fundamental image processing operations such as object counting, image compression, blending, and data augmentation using OpenCV and NumPy libraries. Each script can be adapted and expanded for specific use cases in image analysis and computer vision applications.
